@@ -1,0 +1,12 @@
+.app_outer{
+    flex:1;
+    width: 100%;
+}
+
+.app_boards{
+    min-width: fit-content;
+    display: flex;
+    gap: 27px;
+    justify-content: space-around;
+    padding: 0px 10px;
+}

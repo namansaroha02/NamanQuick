@@ -1,0 +1,30 @@
+.board{
+    min-width: 200px;
+}
+
+.board-icn{
+    margin-right: 5px;
+}
+
+.title{
+    display: flex;
+    width: 275px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.icons{
+    margin-left: auto;
+}
+
+.addIcons{
+    display: block;
+    position: relative;
+    float: right;
+}
+
+.board-third-icn{
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
